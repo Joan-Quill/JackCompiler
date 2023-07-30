@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "JackCompiler": {
+      "commandName": "Project",
+      "workingDirectory": "C:\\Users\\JoJo\\source\\repos\\JackCompiler"
+    }
+  }
+}
